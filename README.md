@@ -65,6 +65,8 @@ As a commuter, I want to compare my usual route against alternatives (e.g. subwa
 | Name | Use Case |
 | Name | Use Case |
 | Name | Use Case |
+| Name | Use Case |
+| Name | Use Case |
 
 ---
 
