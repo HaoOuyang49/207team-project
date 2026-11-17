@@ -4,11 +4,11 @@
 
 ### Team Members
 
-- Name
-- Name
-- Name
-- Name
-- Name
+- Platon
+- Ouyang
+- Selena
+- Matthew
+- Kayden
 
 ---
 
@@ -42,7 +42,7 @@ As a commuter, I want to save my regular commute and get a reliability score for
 
 ### User Story 5
 
-As a commuter, I want to compare my usual route against alternatives (e.g. subway vs. streetcar) to be able to pick the most reliable way to get where I'm going.
+As a rider, I want to see how bad weather affects delays on my line to be able to know when to leave early.
 
 ---
 
