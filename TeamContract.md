@@ -59,6 +59,4 @@ Team Member Signatures:
 
 Selena Zhang
 
-Hao Ouyang
-
 (more signatures go here)
