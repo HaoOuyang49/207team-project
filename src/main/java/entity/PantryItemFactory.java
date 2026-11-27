@@ -12,6 +12,10 @@ public class PantryItemFactory {
         return new PantryItem(itemId, name, quantity, purchasedDate, expiryDate);
     }
 
+    public PantryItem create(String name, Quantity quantity, LocalDate purchasedDate) {
+        return create(name, quantity, purchasedDate, null);
+    }
+
     public PantryItem restore(String itemId, String name, Quantity quantity,
                               LocalDate purchasedDate, LocalDate expiryDate) {
         return new PantryItem(itemId, name, quantity, purchasedDate, expiryDate);
