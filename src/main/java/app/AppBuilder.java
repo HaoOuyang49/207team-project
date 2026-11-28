@@ -90,6 +90,7 @@ public class AppBuilder {
         final JPanel sidebar = new JPanel(new BorderLayout());
         sidebar.setBorder(BorderFactory.createEmptyBorder(12, 12, 12, 12));
         sidebar.add(buttons, BorderLayout.NORTH);
+        sidebar.add(new JLabel("PantryTracker"), BorderLayout.SOUTH);
         return sidebar;
     }
 
